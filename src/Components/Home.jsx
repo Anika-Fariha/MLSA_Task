@@ -20,7 +20,7 @@ import PropTypes from "prop-types";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/fireworks.jpg";
+import image from "../images/socials/fireworks.jpg";
 
 const imageAltText = "Let Your Inner Fireworks Light the Way. Embrace the Challenges, Sparkle with Resilience, and Soar Like Fireworks. ";
 
