@@ -22,7 +22,7 @@ import PropTypes from "prop-types";
  */
 import image from "../images/socials/tower.jpg";
 
-const imageAltText = "Tower of London ";
+const imageAltText = "A staircase is the background image ";
 
 const Home = ({ name, title }) => {
   return (
