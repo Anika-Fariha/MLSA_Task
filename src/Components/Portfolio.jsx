@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/tree.jpg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "tree with a view";
 
 /**
  * Project list
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "My first project🎉",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "A simple calculator which can do basic operations.",
+    url: "https://anika-fariha.github.io/Calculator/",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Quiz Application",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "A quiz application.",
+    url: "https://anika-fariha.github.io/CSE250/",
   },
   {
-    title: "My Resume Site",
+    title: "My LinkedIn Profile",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Includes my experience and acheievements.",
+    url: "https://www.linkedin.com/in/anika-fariha/",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Details on Linear Algebra and Fourier Series",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Videos explaining the topics and their implementation.",
+    url: "https://www.youtube.com/watch?v=9_57hk8SNic&list=PLUy3P89J8HFz8H7sQVO0-RSXMnu9VVtyf",
   },
 ];
 
