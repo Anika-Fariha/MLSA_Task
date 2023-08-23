@@ -22,7 +22,7 @@ import PropTypes from "prop-types";
  */
 import image from "../images/fireworks.jpg";
 
-const imageAltText = "Ignite Your Potential: Let Your Inner Fireworks Light the Way. Embrace the Challenges, Sparkle with Resilience, and Soar Like Fireworks. ";
+const imageAltText = "Let Your Inner Fireworks Light the Way. Embrace the Challenges, Sparkle with Resilience, and Soar Like Fireworks. ";
 
 const Home = ({ name, title }) => {
   return (

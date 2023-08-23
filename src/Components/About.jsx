@@ -45,7 +45,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am a passionate programmer who is always inquisitive to know more.";
+  "I am a passionate programmer who is always inquisitive to know more and is interested in problem solving.";
 
 const About = () => {
   return (

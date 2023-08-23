@@ -43,7 +43,7 @@ const projectList = [
     url: "https://anika-fariha.github.io/CSE250/",
   },
   {
-    title: "My LinkedIn Profile",
+    title: "This is the link to my LinkedIn Profile",
     description:
       "Includes my experience and acheievements.",
     url: "https://www.linkedin.com/in/anika-fariha/",
