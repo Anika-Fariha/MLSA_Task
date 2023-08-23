@@ -22,7 +22,7 @@ import PropTypes from "prop-types";
  */
 import image from "../images/socials/tower.jpg";
 
-const imageAltText = "Let Your Inner Fireworks Light the Way. Embrace the Challenges, Sparkle with Resilience, and Soar Like Fireworks. ";
+const imageAltText = "Tower of London ";
 
 const Home = ({ name, title }) => {
   return (
